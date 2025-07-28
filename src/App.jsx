@@ -1,8 +1,10 @@
-export default function App() {
+function App() {
   return (
-    <div style={{ fontFamily: "sans-serif", padding: "2rem" }}>
-      <h1>🌍 Travel Lingo</h1>
-      <p>Приложение для изучения языков в путешествиях. 🚀</p>
+    <div>
+      <h1>Travel Lingo Proto</h1>
+      <p>Приложение запущено</p>
     </div>
   );
 }
+
+export default App;
